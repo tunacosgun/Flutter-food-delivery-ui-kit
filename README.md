@@ -2,7 +2,7 @@
 
 > **🛒 How to Purchase**
 >
-> To get the full version of this UI kit with all features and screens, visit the [Foody UI Kit product page](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit) and follow the purchase instructions. After purchase, you'll receive access to the complete source code and future updates.
+
 
 ![Flutter Food Delivery Application UI Kit](assets/screenshots/flutter-foody-ui-kit.png)
 
@@ -31,8 +31,7 @@ A complete Flutter UI kit for a food delivery application, showcasing various sc
 - Localization support
 - User reviews and ratings
 
-## Getting Started
-To purchase the full version of this UI kit, please visit [Foody UI Kit](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit).
+
 
 1. Clone this repository.
 2. Run `flutter pub get` to install dependencies.
@@ -48,8 +47,4 @@ To purchase the full version of this UI kit, please visit [Foody UI Kit](https:/
 | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
 
 
-## Live Demo
-[Live Demo](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit)
 
----
-# Flutter-food-delivery-ui-kit
