@@ -1,50 +1,43 @@
-# Flutter Food Delivery Application UI Kit - Foody
+# Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti - Foody
 
-> **🛒 How to Purchase**
+> **🛒 Nasıl Satın Alınır**
 >
 
+![Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti](assets/screenshots/flutter-foody-ui-kit.png)
 
-![Flutter Food Delivery Application UI Kit](assets/screenshots/flutter-foody-ui-kit.png)
+Bir yemek dağıtım uygulaması için çeşitli ekranları ve özellikleri sergileyen eksiksiz bir Flutter kullanıcı arayüzü kiti. Bu proje, geliştiricilerin Flutter kullanarak hızlı bir şekilde yemek dağıtım uygulaması oluşturmalarına yardımcı olmak için tasarlanmıştır.
 
-A complete Flutter UI kit for a food delivery application, showcasing various screens and features. This project is designed to help developers quickly build a food delivery app using Flutter.
+## Özellikler
+- Güzel ve modern kullanıcı arayüzü tasarımı
+- Ana sayfa, ürün detayları, alışveriş sepeti ve daha fazlasını içeren birden fazla ekran
+- Farklı ekran boyutları için duyarlı düzen
+- Özelleştirmesi ve genişletmesi kolay
+- Flutter ve Dart ile oluşturuldu
+- Konum servisleri için Mapbox kullanır
+- Temiz ve iyi yapılandırılmış kod tabanı
+- Hem Android hem de iOS platformlarını destekler
+- Ekranlar arasında kolay gezinme
+- `animate_do`, `mapbox_maps_flutter` ve `go_router` gibi popüler paketlerle entegrasyon
+- Ürünler ve kategoriler için örnek veriler
+- Kullanıcı kimlik doğrulama ekranları
+- Alışveriş sepeti ve ödeme işlevi
+- Profil yönetimi
+- Sipariş geçmişi ve takibi
+- Anlık bildirimler
+- Arama işlevi
+- Filtreleme ve sıralama seçenekleri
+- Sosyal medyada oturum açma seçenekleri
+- Yerelleştirme desteği
+- Kullanıcı yorumları ve derecelendirmeleri
 
-## Features
-- Beautiful and modern UI design
-- Multiple screens including home, product details, cart, and more
-- Responsive layout for different screen sizes
-- Easy to customize and extend
-- Built with Flutter and Dart
-- Uses Mapbox for location services
-- Clean and well-structured codebase
-- Supports both Android and iOS platforms
-- Easy navigation between screens
-- Integration with popular packages like `animate_do`, `mapbox_maps_flutter`, and `go_router`
-- Sample data for products and categories
-- User authentication screens
-- Cart and checkout functionality
-- Profile management
-- Order history and tracking
-- Push notifications
-- Search functionality
-- Filter and sort options
-- Social media login options
-- Localization support
-- User reviews and ratings
+1. Bu deponun kopyasını oluşturun.
+2. Bağımlılıkları yüklemek için `flutter pub get` komutunu çalıştırın. 3. Koddaki `YOUR_MAPBOX_ACCESS_TOKEN` ifadesini kendi Mapbox token'ınızla değiştirin.
+4. Cihazınızda veya simülatörünüzde başlatmak için `flutter run` komutunu çalıştırın.
 
+## Ekran Görüntüleri
 
-
-1. Clone this repository.
-2. Run `flutter pub get` to install dependencies.
-3. Replace `YOUR_MAPBOX_ACCESS_TOKEN` in the code with your own Mapbox token.
-4. Run `flutter run` to launch on your device or simulator.
-
-## Screenshots
-
- | Page | Page
+| Sayfa | Sayfa
 |---|---|
-| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-home-screen.png" width="400px" /> | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-food-screen.png" width="400px" /> |
-| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-search-screen.png" width="400px" /> | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-order-success.png" width="400px" /> |
-| <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
-
-
-
+| <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-home-screen.png" width="400px" /> | <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-food-screen.png" width="400px" /> |
+| <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-search-screen.png" width="400px" /> | <img alt="Flutter Yemek Teslimatı Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-order-success.png" width="400px" /> |
+| <img alt="Flutter Yemek Teslimatı Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
