@@ -1,43 +1,72 @@
-# Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti - Foody
+<div align="center">
 
-> **🛒 Nasıl Satın Alınır**
->
+# 🍔 Flutter Food Delivery UI Kit
 
-![Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti](assets/screenshots/flutter-foody-ui-kit.png)
+<br/>
 
-Bir yemek dağıtım uygulaması için çeşitli ekranları ve özellikleri sergileyen eksiksiz bir Flutter kullanıcı arayüzü kiti. Bu proje, geliştiricilerin Flutter kullanarak hızlı bir şekilde yemek dağıtım uygulaması oluşturmalarına yardımcı olmak için tasarlanmıştır.
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Cross-Platform](https://img.shields.io/badge/iOS_|_Android-Supported-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://flutter.dev/multi-platform)
 
-## Özellikler
-- Güzel ve modern kullanıcı arayüzü tasarımı
-- Ana sayfa, ürün detayları, alışveriş sepeti ve daha fazlasını içeren birden fazla ekran
-- Farklı ekran boyutları için duyarlı düzen
-- Özelleştirmesi ve genişletmesi kolay
-- Flutter ve Dart ile oluşturuldu
-- Konum servisleri için Mapbox kullanır
-- Temiz ve iyi yapılandırılmış kod tabanı
-- Hem Android hem de iOS platformlarını destekler
-- Ekranlar arasında kolay gezinme
-- `animate_do`, `mapbox_maps_flutter` ve `go_router` gibi popüler paketlerle entegrasyon
-- Ürünler ve kategoriler için örnek veriler
-- Kullanıcı kimlik doğrulama ekranları
-- Alışveriş sepeti ve ödeme işlevi
-- Profil yönetimi
-- Sipariş geçmişi ve takibi
-- Anlık bildirimler
-- Arama işlevi
-- Filtreleme ve sıralama seçenekleri
-- Sosyal medyada oturum açma seçenekleri
-- Yerelleştirme desteği
-- Kullanıcı yorumları ve derecelendirmeleri
+<br/>
 
-1. Bu deponun kopyasını oluşturun.
-2. Bağımlılıkları yüklemek için `flutter pub get` komutunu çalıştırın. 3. Koddaki `YOUR_MAPBOX_ACCESS_TOKEN` ifadesini kendi Mapbox token'ınızla değiştirin.
-4. Cihazınızda veya simülatörünüzde başlatmak için `flutter run` komutunu çalıştırın.
+A robust, production-ready **Flutter UI Kit** specifically designed to build highly scalable and beautiful Food Delivery applications. Follows Google's Material Design principles providing an intuitive layout framework for restaurants, carts, and delivery tracking.
 
-## Ekran Görüntüleri
+<br/>
 
-| Sayfa | Sayfa
-|---|---|
-| <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-home-screen.png" width="400px" /> | <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-food-screen.png" width="400px" /> |
-| <img alt="Flutter Yemek Dağıtım Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-search-screen.png" width="400px" /> | <img alt="Flutter Yemek Teslimatı Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-order-success.png" width="400px" /> |
-| <img alt="Flutter Yemek Teslimatı Uygulaması Kullanıcı Arayüzü Kiti" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
+[Overview](#-overview) · [Features](#-features) · [Getting Started](#-getting-started)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🎯 Overview
+
+This UI kit dramatically accelerates the frontend development of food delivery apps. It contains seamlessly animated screens capturing the entire flow from browsing restaurants to final checkout, including dynamic cart logic and mock delivery tracking views.
+
+<br/>
+
+---
+
+<br/>
+
+## ✨ Features
+
+- **Store Front**: Engaging restaurant listings, category sliders, and featured meals logic.
+- **Cart & Checkout**: Fluid shopping cart implementation with quantity adjustments and address selection wizards.
+- **Order Tracking**: Beautiful map-mock layouts displaying delivery courier status.
+- **Micro-Animations**: Custom hero animations bridging lists and detail screens to emulate native feel perfectly.
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 Getting Started
+
+1. **Clone the project**
+   ```bash
+   git clone https://github.com/tunacosgun/Flutter-food-delivery-ui-kit.git
+   ```
+2. **Install missing packages**
+   ```bash
+   cd Flutter-food-delivery-ui-kit
+   flutter pub get
+   ```
+3. **Launch the kit**
+   ```bash
+   flutter run
+   ```
+
+<br/>
+
+---
+
+<div align="center">
+<b>Deliver exceptional user experiences with Flutter.</b>
+</div>
