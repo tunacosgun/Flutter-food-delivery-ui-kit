@@ -70,3 +70,9 @@ This UI kit dramatically accelerates the frontend development of food delivery a
 <div align="center">
 <b>Deliver exceptional user experiences with Flutter.</b>
 </div>
+
+
+## Contributors
+
+- Tunahan Coşgun — <info@tunahancosgun.dev>
+- Duygu Durmuş — <duygudurmus12@gmail.com>
